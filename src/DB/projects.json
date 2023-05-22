@@ -1053,5 +1053,22 @@
         "tech": ["Javascript", "Css", "Html", "React", "Tailwind CSS"]
       }
     ]
-  }
-]
+  },
+{
+  "github_username": "SAGARGAUD01",
+  "Social_media": {
+    "gitHub": "https://github.com/SAGARGAUD01",
+    "LinkedIn": "https://www.linkedin.com/in/sagargaud332/",
+    "Instagram": "",
+    "YouTube": "https://www.youtube.com/channel/UCsPi2RveSJArq6kq-9l_rsg",
+    "Twitter": "https://twitter.com/Sagarjay9"
+  },
+  "Projects": [
+    {
+      "link": "https://github.com/SAGARGAUD01/Hourly-Recruitment-Application",
+      "title": "Hourly-Recruitment-Application",
+      "description": "Design a web application Hourly Recruitment Application to allow anyone to sign up as a recruiter or as a worker.",
+      "tech": "[MERN]"
+    }
+  ]
+}
